@@ -3,7 +3,7 @@
   "main": "server.js",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
-    "body-parser": "~1.9.3",
+    "body-parser": "~2.2.2",
     "bookshelf": "^0.9.1",
     "express": "4.10.3",
     "jsonwebtoken": "^5.4.1",
